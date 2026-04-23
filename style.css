@@ -1,0 +1,101 @@
+h1{text-align:cenetr}
+h1{font-family:Audiowide}
+h1{color:black}
+h1{background-color:RGBA(200, 070, 055, 0.6)}
+h1{text-align:center}
+
+h2{font-family:Audiowide}
+h2{font-size:27px}
+h2{text-align:center}
+h2{color:black}
+
+h3{font-family:Audiowide}
+h3{text-align:center}
+h3{color:green}
+h3
+
+
+
+
+.audiowide-regular {
+  font-family: "Audiowide", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+footer{color:black}
+footer{text-align:center}
+footer{font-size:20px}
+footer{font-family:Audiowide}
+footer{background-color:RGBA(47, 143, 119,0.7)}
+
+.copyright{font-size:13px}
+.copyright
+
+
+a{font-family:Audiowide}
+a{color:green}
+
+nav a{font-family:Audiowide}
+nav a{color:green}
+nav a{font-size:20px}
+nav a{text-align:center}
+
+
+  nav a {
+      text-decoration: none;
+      padding: 1px 30px;
+      border-radius: 5px;
+      transition: background-color 0.9s;
+    }
+
+    nav a:hover {
+      background-color: RGBA(200, 070, 055, 0.6);
+    }
+
+    nav {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      padding: 10px;
+    }
+
+.box {
+text-align:center;
+background-color:#fbf1f1;
+height:100px;
+font-size:20px;
+font-family:Audiowide;
+
+}
+
+.container {
+width:auto;
+height:200px;
+background-color:#fbf1f1;
+margin-right:20px;
+margin-left:20px;
+padding-top:19px;
+
+}
+
+
+.chapters {
+
+width:auto;
+height:auto;
+background-color:#fbf1f1;
+margin-right:20px;
+margin-left:20px;
+padding-top:19px;
+
+
+}
+
+
+pre {font-family:Audiowide}
+pre {text-align:center}
+pre {font-size:20px}
+
+.text{text-align:left}
